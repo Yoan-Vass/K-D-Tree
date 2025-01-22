@@ -1,0 +1,45 @@
+{
+	"axis": 0,
+	"value": 1.0,
+	"left" :{
+		"axis": 1,
+		"value": -1.0,
+		"left" :{
+			"axis": 0,
+			"value": -0.5,
+			"left" :{
+				"points": [[-2.0,-2.0]]
+			},
+			"right" :{
+				"points": [[1.0,-2.0]]
+			}
+		},
+		"right" :{
+			"axis": 0,
+			"value": -1.5,
+			"left" :{
+				"points": [[-2.0,1.0]]
+			},
+			"right" :{
+				"points": [[-1.0,0.0]]
+			}
+		}
+	},
+	"right" :{
+		"axis": 1,
+		"value": 0.0,
+		"left" :{
+			"axis": 0,
+			"value": 2.5,
+			"left" :{
+				"points": [[2.0,-1.0]]
+			},
+			"right" :{
+				"points": [[3.0,0.0]]
+			}
+		},
+		"right" :{
+			"points": [[2.0,2.0]]
+		}
+	}
+}
